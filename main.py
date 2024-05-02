@@ -2,8 +2,8 @@ import requests
 import uuid
 
 # Replace with your Supabase URL and API key
-supabase_url = "https://your-supabase-instance.supabase.io"
-api_key = "your-supabase-api-key"
+supabase_url = "https://qcgormukkhvvsfopwoky.supabase.co"
+api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFjZ29ybXVra2h2dnNmb3B3b2t5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQwNzE4MzAsImV4cCI6MjAyOTY0NzgzMH0.K01pKttKLwT_B0crhuyHXCkt6_Y84w18DbRjPb2RA40"
 
 # Set the API key in the headers
 headers = {
